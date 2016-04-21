@@ -1,0 +1,7 @@
+[package]
+authors = ["Arsalan Ahmad <arsalanahmad.ars@gmail.com>"]
+name = "pianotiles"
+version = "0.1.0"
+
+[dependencies]
+image = "*"
